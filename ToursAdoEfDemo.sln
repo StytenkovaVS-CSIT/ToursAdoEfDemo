@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToursAdoEfDemo", "ToursAdoEfDemo\ToursAdoEfDemo.csproj", "{24FCDABD-9B84-4F6C-85BD-C84B6B4FAFE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FCDABD-9B84-4F6C-85BD-C84B6B4FAFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FCDABD-9B84-4F6C-85BD-C84B6B4FAFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FCDABD-9B84-4F6C-85BD-C84B6B4FAFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FCDABD-9B84-4F6C-85BD-C84B6B4FAFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C62FF3-0A67-4868-B8DE-B44D2A59533E}
+	EndGlobalSection
+EndGlobal
